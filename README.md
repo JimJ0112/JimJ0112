@@ -1,7 +1,7 @@
 #  I'm JimJ0112!
 
 ### About Me  
-I'm a **developer** passionate about **Web Development and IOT Systems**.  
+I'm a **Programmer** passionate about developing **Web, Android and IOT Systems**.  
 
 ###  Tech Stack  
 
@@ -25,11 +25,3 @@ I'm a **developer** passionate about **Web Development and IOT Systems**.
 ####  Hardware & IoT  
 ![ESP32](https://img.shields.io/badge/ESP32-%2300A4FF.svg?style=for-the-badge&logo=espressif&logoColor=white)  
 ![GPS](https://img.shields.io/badge/GY--NEO6MV2-%234285F4.svg?style=for-the-badge&logo=gnss&logoColor=white)  
-
-###  Featured Projects  
-
-###  GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JimJ0112&show_icons=true&theme=dark)  
-
-###  Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/JimJ0112)  
