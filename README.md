@@ -1,4 +1,4 @@
-#  I'm JimJ0112!
+#  I'm JL Manrique! 
 
 ### About Me  
 I'm a **Programmer** passionate about developing **Web, Android and IOT Systems**.  
