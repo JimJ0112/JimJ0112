@@ -21,6 +21,8 @@ I'm a **Programmer** passionate about developing **Web, Android and IOT Systems*
 ![AdminLTE](https://img.shields.io/badge/AdminLTE-%230071C5.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![TCPDF](https://img.shields.io/badge/TCPDF-%23007ACC.svg?style=for-the-badge&logo=pdf&logoColor=white)  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+
 
 ####  Hardware & IoT  
 ![ESP32](https://img.shields.io/badge/ESP32-%2300A4FF.svg?style=for-the-badge&logo=espressif&logoColor=white)  
